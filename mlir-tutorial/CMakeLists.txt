@@ -21,4 +21,5 @@ include(HandleLLVMOptions)
 include_directories(${LLVM_INCLUDE_DIRS} ${MLIR_INCLUDE_DIRS})
 
 #add_subdirectory(Ch1)
-add_subdirectory(Ch2)
+#add_subdirectory(Ch2)
+add_subdirectory(Ch3)
